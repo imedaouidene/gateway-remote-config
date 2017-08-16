@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF39B60",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.84101904,
+    "ref_longitude": 10.59864753,
+    "ref_altitude": 11,
+    "contact_email": "imed.aouidene@gmail.com",
+    "description": "MakerLab LoRa gateway"
+  }
+}
